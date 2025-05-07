@@ -1,0 +1,35 @@
+{
+  "name": "apifrontp",
+  "version": "0.1.0",
+  "type": "module",
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.5",
+    "@tailwindcss/vite": "^4.1.4",
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@vitejs/plugin-react-swc": "^3.9.0",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.5",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.2"
+  },
+  "dependencies": {
+    "@material-tailwind/react": "^2.1.10",
+    "axios": "^1.8.4",
+    "bootstrap": "^5.3.5",
+    "chart.js": "^4.4.9",
+    "html5-qrcode": "^2.3.8",
+    "lucide-react": "^0.507.0",
+    "react-chartjs-2": "^5.3.0",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^7.5.1",
+    "react-zxing": "^2.1.0",
+    "recharts": "^2.15.3"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  }
+}
